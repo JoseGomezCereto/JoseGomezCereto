@@ -14,7 +14,15 @@ I am a novice App developer for iOS:apple: and Android:robot: from Andalusia, Sp
 
 ### Skills:
 #### :blue_book: Swift
-#### :book: Still learning!
+#### :book: HTML5
+#### :book: CSS3
+#### :book: JavaScript WIP
+#### :book: Kotlin WIP
+#### :book: React WIP
+#### :book: NodeJS WIP
+#### :book: JSON WIP
+#### :book: MySQL WIP
+#### :book: MongoDB WIP
 
 
 ### Language Skills:
